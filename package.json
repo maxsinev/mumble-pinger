@@ -11,5 +11,9 @@
     "name": "Max Sinev",
     "email": "maxsinev@gmail.com"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/maxsinev/mumble-pinger.git"
+  },
   "license": "mit"
 }
