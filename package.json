@@ -1,0 +1,15 @@
+{
+  "name": "mumble-pinger",
+  "version": "0.5.0",
+  "description": "A Node.js tiny dependency-free implementation of the Mumble ping protocol.",
+  "main": "lib/index.js",
+  "scripts": {
+    "run": "node lib/index"
+  },
+  "keywords": ["mumble"],
+  "author": {
+    "name": "Max Sinev",
+    "email": "maxsinev@gmail.com"
+  },
+  "license": "mit"
+}
